@@ -1,0 +1,50 @@
+{
+  "name": "oroubah",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "formik": "^2.2.6",
+    "jwt-decode": "^3.1.2",
+    "mdbreact": "^5.0.1",
+    "moment": "^2.29.1",
+    "rc-footer": "^0.6.3",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-dom": "^17.0.1",
+    "react-moment": "^1.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
